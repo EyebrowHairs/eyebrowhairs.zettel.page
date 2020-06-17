@@ -1,8 +1,5 @@
 ---
-id: 202006171614
 title: EyebrowHairs
-date: 2020-06-17
-tags: []
 ---
 
 ## 🌷🌱🌹 Welcome to my digital garden! 🌼🌿🌻
