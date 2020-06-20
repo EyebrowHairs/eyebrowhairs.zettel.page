@@ -3,8 +3,9 @@ date: 2020-06-18
 ---
 
 # Testing page
+My testing page for various things that work (or not) on Neuron.
 
-### Line
+### Horizontal Line
 
 message
 
@@ -98,7 +99,6 @@ I sponged the wound, cleaned it, dressed it, and finally covered it over with co
 
 Sherlock Holmes was, as I expected, lounging about his sitting-room in his dressing-gown, reading the agony column of The Times and smoking his before-breakfast pipe, which was composed of all the plugs and dottles left from his smokes of the day before, all carefully dried and collected on the corner of the mantelpiece. He received us in his quietly genial fashion, ordered fresh rashers and eggs, and joined us in a hearty meal. When it was concluded he settled our new acquaintance upon the sofa, placed a pillow beneath his head, and laid a glass of brandy and water within his reach.
 
-
 :::{.ui .left .rail}
 :::{.ui .segment}
 message
@@ -108,6 +108,7 @@ message
 
 :::{.ui .segment}
 Another text goes here.
+
 ## headers
 - list
 - list
