@@ -1,9 +1,34 @@
 ---
-date: 2020-06-18
+id: 202006201314
+title: Testing page
+date: 2020-06-20
+tags: []
 ---
 
-# Testing page
 My testing page for various things that work (or not) on Neuron.
+
+### Message
+
+:::{.ui .floating .message}
+:::{.header}
+header title text
+:::
+
+message text
+:::
+
+:::{.ui .black .message}
+message
+:::
+
+:::{.ui .info .message}
+message
+:::
+
+:::{.list}
+- one
+- two
+:::
 
 ### Horizontal Line
 
