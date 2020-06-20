@@ -14,7 +14,7 @@ An idealist, neophile ([[202006131503]]), [multipotentialite](https://en.wikiped
 
 I have always wanted to start a blog, but after many attempts, found that I couldn’t commit to writing regular posts and didn’t want to be held back by the “blog” form (what I consider to be a strict format of linear, fully written posts that are mostly unchanged after publishing).
 
-A digital garden ([[202006172336]]) allows me to create interconnected pages and notes that are neither permanent nor need to be viewed linearly (chronologically).
+A digital garden ([[202006032203]]) allows me to create interconnected pages and notes that are neither permanent nor need to be viewed linearly (chronologically).
 
 Besides, it’s fun to think of myself as a gardener, cultivating and tending to my internet ‘garden’, with sprawling plots of various plant-notes.
 
