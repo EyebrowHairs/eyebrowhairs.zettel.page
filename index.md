@@ -20,9 +20,12 @@ Besides, it’s fun to think of myself as a gardener, cultivating and tending to
 
 I have a semi-green thumb in real life, so let’s hope that it transfers here! 🌱👍
 
-### Digital Garden Terms of Service
-
-Read about it: [[202006182315]]
+:::{.ui .info .message}
+:::{.header}
+Digital Garden Terms of Service
+:::
+Read about it here: [[202006182315]]
+:::
 
 ### Navigation
 
