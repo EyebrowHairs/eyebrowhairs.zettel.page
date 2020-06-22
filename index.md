@@ -30,6 +30,6 @@ Read about it here: [[202006182315]]
 ### Navigation
 
 - view notes by themes ([[202006172127]])
-- view notes by tags
+- view notes by [tags](https://eyebrowhairs.zettel.page/search.html)
 - view notes by date created ([[202006220013]])
-- view note drafts (seeds/nursery?) - everything is a work in progress, but these notes are especially incomplete or have just started being developed
+- view note drafts ([[202006220019]]) - I consider everything to be a work in progress, but these notes are especially incomplete or have just started being developed
