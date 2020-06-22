@@ -10,7 +10,7 @@ Part-blog and part-personal wiki, this is a place where I curate and share my mo
 
 > If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them. ~ Henry David Thoreau
 
-An idealist, neophile ([[202006131503]]), [multipotentialite]([[202006131545]]), and “avid” [practicer](https://www.reddit.com/r/1000daysofpractice/). 
+An idealist, neophile ([[202006131503]]), multipotentialite([[202006131545]]), and “avid” [practicer](https://www.reddit.com/r/1000daysofpractice/) of music. 
 
 I have always wanted to start a blog, but after many attempts, found that I couldn’t commit to writing regular posts and didn’t want to be held back by the “blog” form (what I consider to be a strict format of linear, fully written posts that are mostly unchanged after publishing).
 
@@ -31,5 +31,5 @@ Read about it here: [[202006182315]]
 
 - view notes by themes ([[202006172127]])
 - view notes by tags
-- view notes by date created (timeline)
+- view notes by date created ([[202006220013]])
 - view note drafts (seeds/nursery?) - everything is a work in progress, but these notes are especially incomplete or have just started being developed
