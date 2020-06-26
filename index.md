@@ -6,6 +6,7 @@ title: EyebrowHairs
 
 Part-blog and part-personal wiki, this is a place where I curate and share my more useful notes.
 
+
 ### About the gardener
 
 > If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them. ~ Henry David Thoreau
@@ -19,6 +20,10 @@ A digital garden ([[202006032203]]) allows me to create interconnected pages and
 Besides, it’s fun to think of myself as a gardener, cultivating and tending to my internet ‘garden’, with sprawling plots of various plant-notes.
 
 I have a semi-green thumb in real life, so let’s hope that it transfers here! 🌱👍
+
+### About this garden
+
+Read about the technical parts here: [[202006212211]]
 
 :::{.ui .info .message}
 :::{.header}
