@@ -23,7 +23,7 @@ I have a semi-green thumb in real life, so let’s hope that it transfers here! 
 
 ### About this garden
 
-Read about the technical parts here: [[202006212211]]
+Read about the technical details here: [[202006212211]]
 
 :::{.ui .info .message}
 :::{.header}
