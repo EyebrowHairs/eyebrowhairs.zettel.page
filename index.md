@@ -23,7 +23,7 @@ Read about the technical details here: [[202006212211]]
 Digital Garden Terms of Service: [[202006182315]]
 
 ### Navigation
-- [[202006172127]] - view notes by themes 
+- [[_202006172127]] - view notes by themes 
 - [[202006221135]] - view notes by tags 
 - [[202006220013]] - view notes by date created 
 - [[202006220019]] - view note drafts
