@@ -5,6 +5,16 @@ title: EyebrowHairs
 ## 🌷🌱🌹 Welcome to my digital garden! 🌼🌿🌻
 Part-blog and part-personal wiki, this is a place where I curate and share my more useful notes.
 
+:::{.ui .message}
+:::{.header}
+Navigation
+:::
+- [[-202006172127]] - view notes by themes 
+- [[202006221135]] - view notes by tags 
+- [[202006220013]] - view notes by date created 
+- [[202006220019]] - view note drafts
+:::
+
 ### About the gardener
 > If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them. ~ Henry David Thoreau
 
@@ -21,9 +31,3 @@ I have a semi-green thumb in real life, so let’s hope that it transfers here! 
 ### About this garden
 Read about the technical details here: [[202006212211]]
 Digital Garden Terms of Service: [[202006182315]]
-
-### Navigation
-- [[_202006172127]] - view notes by themes 
-- [[202006221135]] - view notes by tags 
-- [[202006220013]] - view notes by date created 
-- [[202006220019]] - view note drafts
