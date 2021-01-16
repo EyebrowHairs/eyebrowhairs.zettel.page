@@ -1,6 +1,5 @@
 ---
 id: 202006201314
-title: Testing page
 date: 2020-06-20
 ---
 
