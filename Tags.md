@@ -12,4 +12,4 @@ Navigation
 - [[Nursery]] - view note drafts
 ::: 
 
-<z:zettels?tag=**&grouped&cf>
+[[z:zettels?tag=**&grouped&cf]]
