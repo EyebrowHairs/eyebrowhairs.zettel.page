@@ -1,5 +1,5 @@
 ---
-id: -202006220013
+id: 202006220013
 title: Timeline
 keywords: [meta]
 ---
@@ -11,9 +11,9 @@ keywords: [meta]
 :::{.header}
 Navigation
 :::
-- [[-202006172127]] - view index
-- [[-202006221135]] - view notes by tags 
-- [[-202006220019]] - view note drafts
+- [[Map]] - view index
+- [[Tags]] - view notes by tags 
+- [[Nursery]] - view note drafts
 ::: 
 
 <z:zettels?timeline&cf>

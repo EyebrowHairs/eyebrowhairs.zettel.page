@@ -1,5 +1,5 @@
 ---
-id: -202006241926
+id: 202006241926
 title: Compost Bin
 date: 2020-06-24
 keywords: [meta]
@@ -10,4 +10,4 @@ keywords: [meta]
 - Started: May 2020
 - Ended: August 2020 - the fabric and fit just weren’t right
 - Type: crochet
-- Link: [[202005242248]]
+- Link: [[Project - Hanbok Cardigan]]

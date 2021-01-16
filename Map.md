@@ -1,5 +1,5 @@
 ---
-id: -202006172127
+id: 202006172127
 title: 000 - Garden Map | Index | Active | Now
 keywords: [meta, nursery, pinned]
 ---
@@ -10,9 +10,9 @@ Welcome to the garden map (a.k.a. the index)! This is a curated map that offers 
 :::{.header}
 Navigation
 :::
-- [[-202006221135]] - view notes by tags 
-- [[-202006220013]] - view notes by date created 
-- [[-202006220019]] - view note drafts
+- [[Tags]] - view notes by tags 
+- [[Timeline]] - view notes by date created 
+- [[Nursery]] - view note drafts
 ::: 
 
 ## Index (currently testing)

@@ -9,10 +9,10 @@ Part-blog and part-personal wiki, this is a place where I curate and share my mo
 :::{.header}
 Navigation
 :::
-- [[-202006172127]] - view index
-- [[-202006221135]] - view notes by tags 
-- [[-202006220013]] - view notes by date created 
-- [[-202006220019]] - view note drafts
+- [[Map]] - view index
+- [[Tags]] - view notes by tags 
+- [[Timeline]] - view notes by date created 
+- [[Nursery]] - view note drafts
 :::
 
 ### About the gardener
