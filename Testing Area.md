@@ -15,9 +15,9 @@ Testing on the web app on laptop
 
 Testing features of [Neuron](https://neuron.zettel.page/) and other random blog things.
 
-[[202006201314]] <!--Testing page-->
+[[Testing Page]] <!--Testing page-->
 
-[[202006201314 | Testing page]]
+[[Testing Page | Testing page]]
 
 [[202006172213 | Zettelkasten]]
 
@@ -35,10 +35,10 @@ Testing features of [Neuron](https://neuron.zettel.page/) and other random blog 
 
 [[-202006172127?cf]] [](test-test) - text << this one works
 
-[[-202006172127?cf | index]]  - text
+[[-202006172127?cf|index]]  - text
 [^hi]: something
 
-[[Modern friend | work]]
+[[Modern friend|work]]
 
 [test](202006212211.md)
 
