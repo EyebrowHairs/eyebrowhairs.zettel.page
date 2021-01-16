@@ -16,4 +16,4 @@ Everything is a work in progress, but these notes are considered to be especiall
 
 Sometimes I get over-excited about something and don’t really test it out fully. So this is also an incubation area for ideas and experiments that might be successful, or sadly have to make its way over to the [[Compost Bin]].
 
-<z:zettels?tag=nursery&cf>
+[[z:zettels?tag=nursery&cf]]

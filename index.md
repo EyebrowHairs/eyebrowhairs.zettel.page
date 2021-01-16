@@ -31,4 +31,4 @@ I have a semi-green thumb in real life, so let’s hope that it transfers here! 
 ### About this garden
 Read about the technical details here: [[202006212211]]
 
-Digital Garden Terms of Service: [[202006182315]]
+Digital Garden Terms of Service: [[Digital Garden Terms of Service]]

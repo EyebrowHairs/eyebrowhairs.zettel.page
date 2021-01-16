@@ -38,7 +38,7 @@ Testing features of [Neuron](https://neuron.zettel.page/) and other random blog 
 [[-202006172127?cf | index]]  - text
 [^hi]: something
 
-[[202006031159 | work]]
+[[Modern friend | work]]
 
 [test](202006212211.md)
 

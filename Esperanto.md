@@ -9,7 +9,7 @@ Saluton!
 
 I had attempted to learn Esperanto many years ago, using Duolingo, but wasn’t motivated enough to continue when the grammar became to hard to keep up for my casual learning.
 
-In March 2020, a modern friend ([[202006031159]]) and I decided to learn Esperanto together, and I’m still going after 100+ days! Having someone to discuss and practice with makes the process much more enjoyable.
+In March 2020, a modern friend ([[Modern friend]]) and I decided to learn Esperanto together, and I’m still going after 100+ days! Having someone to discuss and practice with makes the process much more enjoyable.
 
 Duolingo has been helpful for learning the basics of grammar and maintaining a foundation of vocabulary, and I believe is mostly helpful due to the spaced-repetition of lessons. You are encouraged to work through each lesson up to level 5, and periodically maintain that level as you progress down a lesson tree. 
 

@@ -9,7 +9,7 @@ Adapted from: [https://www.swyx.io/writing/digital-garden-tos/](https://www.swyx
 ## For Visitors
 Welcome! You are now browsing a [Digital Garden](https://joelhooks.com/digital-garden). This is my personal space for [Learning In Public](https://www.swyx.io/writing/learn-in-public) (not entirely, but somewhat). I am a lifelong learner so everything is a Work-In-Progress like me, but I do not let perfectionism get in the way (well, I try not to…that is a struggle for me). That means that what you read here is not authoritative or complete, and is not representative of my best work.
 
-However, it is representative of my interests and current state of knowledge, and if you have the same interests, then this space is also yours to use as a reference. Feedback and social sharing is welcome - that is the whole point of being public! ([[202006201337]] me)
+However, it is representative of my interests and current state of knowledge, and if you have the same interests, then this space is also yours to use as a reference. Feedback and social sharing is welcome - that is the whole point of being public! ([[Contact]] me)
 
 ### 1. Right to Be Wrong
 I have a right to be wrong or incomplete in my Digital Garden, either due to paucity of time or knowledge. You will not hold this, or my readership, against me because I will keep learning, with your help. Everything in the Digital Garden is a living document and I will retract or rephrase things I no longer agree with.

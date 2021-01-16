@@ -16,4 +16,4 @@ Navigation
 - [[Nursery]] - view note drafts
 ::: 
 
-<z:zettels?timeline&cf>
+[[z:zettels?timeline&cf]]
