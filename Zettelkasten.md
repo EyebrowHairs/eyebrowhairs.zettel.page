@@ -1,5 +1,5 @@
 ---
-date: 2020-06-17
+date: 2021-01-16
 tags: [zettelkasten, in-progress]
 ---
 ## What is it?
