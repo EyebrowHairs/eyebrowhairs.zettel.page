@@ -105,6 +105,7 @@ A year ago, I randomly decided to pick up this script called Vianaic, which look
 ### 2020-06-22
 A cool concept of displaying your life in story: [Life in weeks](https://notes.busterbenson.com/life-in-weeks)
    - I am reminded of this [site](https://waitbutwhy.com/2014/05/life-weeks.html), where I first encountered the ‘life in weeks’ idea.
+   
 Other apps/sites that help you visualize or track your life:
     - [https://zrxj5vvjvl.codesandbox.io/](https://zrxj5vvjvl.codesandbox.io/)
      - [https://jhornitzky.github.io/yolograph/demo/](https://jhornitzky.github.io/yolograph/demo/) - shows you what percentage of years you lived based on an average lifespan of 70 years
