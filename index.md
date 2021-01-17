@@ -11,4 +11,15 @@ Part-blog and part-personal wiki, this is a place where I curate and share usefu
 [[z:zettels?tag=**&limit=20&timeline]]
 
 ### Topics
-[[z:zettels?tag=**&grouped]]
+
+<!-- :::{.ui .basic .segment .two .column .stackable .grid} -->
+
+:::{.ui .two .column .very .relaxed .grid}
+:::{.column}
+[[z:zettels?tag=in-progress]]
+:::
+:::{.column}
+[[z:zettels?tag=zettelkasten]]
+:::
+|{.ui .vertical .divider}
+:::
