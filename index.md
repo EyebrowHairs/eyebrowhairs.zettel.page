@@ -8,7 +8,7 @@ title: EyebrowHairs
 
 Part-blog and part-personal wiki, this is a place where I curate and share useful notes!
 
-:::{.ui .horizontal .segments}
+:::{.ui .basic .horizontal .segments}
 :::{.ui .center .aligned .segment}
 [[About the Gardener]]
 :::
@@ -24,11 +24,6 @@ Part-blog and part-personal wiki, this is a place where I curate and share usefu
 [[z:zettels?tag=**&limit=20&timeline]]
 
 ### Topics
-
-<!-- :::{.ui .basic .segment .two .column .stackable .grid} -->
-
-<!-- :::{.ui .two .column .very .relaxed .grid} -->
-
 :::{.ui .basic .segment .two .column .stackable .grid}
 :::{.column}
 [[z:zettels?tag=in-progress]]
@@ -37,5 +32,3 @@ Part-blog and part-personal wiki, this is a place where I curate and share usefu
 [[z:zettels?tag=zettelkasten]]
 :::
 :::
-
-<!-- {.ui .vertical .divider} -->
