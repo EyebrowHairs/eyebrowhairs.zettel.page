@@ -1,6 +1,6 @@
 ---
 date: 2021-01-16
-tags: []
+tags: [compost]
 ---
 🌹 → 🥀 An archive of sorts.
 

@@ -1,6 +1,5 @@
 ---
 date: 2021-01-16
-tags: []
 ---
 Adapted from: [https://www.swyx.io/writing/digital-garden-tos/](https://www.swyx.io/writing/digital-garden-tos/) 
 
