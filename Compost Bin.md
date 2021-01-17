@@ -1,7 +1,7 @@
 ---
 date: 2021-01-16
-tags: [compost]
+tags: [compost, collection]
 ---
 🌹 → 🥀 An archive of sorts.
 
-[[z:zettels?tag=compost]]
+[[[z:zettels?tag=compost]]]
