@@ -23,5 +23,6 @@ Part-blog and part-personal wiki, this is a place where I curate and share usefu
 :::{.column}
 [[z:zettels?tag=zettelkasten]]
 :::
-|{.ui .vertical .divider}
 :::
+
+<!-- {.ui .vertical .divider} -->
