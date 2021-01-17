@@ -3,8 +3,6 @@ date: 2020-06-22
 tags: [collection]
 ---
 
-This is pretty much a thought/link dump :)
-
 ## September 2020
 ### 2020-09-11
 [Half Farmer/Half X](https://www.japanfs.org/en/news/archives/news_id028996.html) - very interesting concept which I’m leaning towards. I have been able to garden a few times before (I usually lived in apartments so there weren’t many opportunities) and it was an enjoyable experience. Although farming for actual sustenance may be more stressful than my mere gardening for fun…
@@ -13,9 +11,6 @@ This is pretty much a thought/link dump :)
 Orientation for school started 2 weeks ago and classes start next week. I was reminded of the importance of following routines and schedules, so I planned out a typical week and am using it as a desktop wallpaper for easy access. It’s not a strict schedule, but it helps to visualize what needs to be done and how much time can be used for activities.
 
 ## August 2020
-
-### 2020-08-20
-[[202008201805]] <!-- Think about the long-term -->- moving away from an instant-gratification mindset
 
 ### 2020-08-12
 These days I have been quite lazy at maintaining any sort of note-system.  I have been reading a lot of books and articles, but have just  been writing notes down on paper without processing them further. However,  with the guilt of not maintaining my Zettelkasten in the back of my mind, I believe that I am still thinking of forming connections between ideas, and perhaps caught a glimpse of how exciting it is to maintain a Zettelkasten and be on the lookout for more ideas to grow it. As an example, I was reading a book and suddenly recalled a very similar and related idea from another book. Wow! I could make a new note with that connection! But alas, without writing it down, this connection will probably fade away… (unless, you know, I write it down)
@@ -48,8 +43,6 @@ These days I have been quite lazy at maintaining any sort of note-system.  I hav
 
 ### 2020-07-05
 [OBS (Open Broadcaster Software)](https://obsproject.com/) - allows you to customize the  layout of a presentation screen, which can be used in video meetings in place of the default layout of the software (example: video screen might be too small in a slideshow-view). Originally seen in this [article](https://medium.com/@cs50/teaching-from-home-via-zoom-c3b336446fbc).
-
-[[202006261501]] <!-- You've got mail! -->- on decluttering from notifications and setting intentional ones
 
 ### 2020-07-04
 [Elizabeth I](https://www.elizabethi.org/) - I don’t remember why or how I discovered this site, but I read a majority of the articles last year and I thought it was a nice, light introduction to Queen Elizabeth I’s history
@@ -111,8 +104,8 @@ A year ago, I randomly decided to pick up this script called Vianaic, which look
 
 ### 2020-06-22
 A cool concept of displaying your life in story: [Life in weeks](https://notes.busterbenson.com/life-in-weeks)
-   - I am reminded of this [site](https://waitbutwhy.com/2014/05/life-weeks.html), where I first encountered the ‘life in weeks’ idea: 
-   - other apps/sites that help you visualize or track your life (yes, I looked at the comments):
+   - I am reminded of this [site](https://waitbutwhy.com/2014/05/life-weeks.html), where I first encountered the ‘life in weeks’ idea.
+Other apps/sites that help you visualize or track your life:
     - [https://zrxj5vvjvl.codesandbox.io/](https://zrxj5vvjvl.codesandbox.io/)
      - [https://jhornitzky.github.io/yolograph/demo/](https://jhornitzky.github.io/yolograph/demo/) - shows you what percentage of years you lived based on an average lifespan of 70 years
      - [http://pewu.github.io/life-in-weeks/](http://pewu.github.io/life-in-weeks/) - customizable
