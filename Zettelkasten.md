@@ -1,0 +1,18 @@
+---
+date: 2020-06-17
+tags: [zettelkasten, in-progress]
+---
+## What is it?
+
+### Discovery
+I came across the Zettelkasten method back in the spring of 2019. Unfortunately, there weren’t many resources around (although Christian and Sascha over at [zettelkasten.de](https://zettelkasten.de/) have been a huge help!), so I decided to start the subreddit [r/Zettelkasten](https://www.reddit.com/r/Zettelkasten/) to provide a place to gather resources and find like-minded people. 
+
+The activity was slow to non-existent at the start, but fast-forward one year, and you will find that the activity levels have skyrocketed![^1] 
+
+One year ago, I read almost every article I could possibly find on the internet on the Zettelkasten method.
+
+Now, I can hardly keep up with the output!
+
+In order to make sense of all this information, I am currently part of a [team](https://github.com/Kuratoro) maintaining a [public Zettelkasten](https://zk.zettel.page/) on the Zettelkasten method itself. It’s not perfect and progress is slow-going, but it’s a start, and I hope to keep the momentum going for as long as possible.
+
+[^1]: See the [traffic stats](https://www.reddit.com/r/Zettelkasten/comments/gj3eph/subreddit_traffic_stats_for_curious_people/)!

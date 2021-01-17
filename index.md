@@ -7,4 +7,5 @@ Part-blog and part-personal wiki, this is a place where I curate and share usefu
 
 [[About the Gardener]] | [[About this Digital Garden]] | [[Digital Garden Terms of Service]]
 
-[[z:zettels?tag=**&limit=2&timeline]]
+### Latest Additions
+[[z:zettels?tag=**&limit=20&timeline]]
