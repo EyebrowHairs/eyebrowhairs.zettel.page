@@ -29,6 +29,7 @@ Part-blog and part-personal wiki, this is a place where I curate and share usefu
 :::{.ui .basic .segment .two .column .stackable .grid}
 :::{.column}
 [[z:zettels?tag=in-progress]]
+[[z:zettels?tag=collection]]
 :::
 :::{.column}
 [[z:zettels?tag=zettelkasten]]
