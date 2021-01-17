@@ -2,10 +2,25 @@
 title: EyebrowHairs
 ---
 
+:::{.ui .segment}
+::: {.ui .center .aligned .header}
 ## 🌷🌱🌹 Welcome to my digital garden! 🌼🌿🌻
+:::
+:::
+
 Part-blog and part-personal wiki, this is a place where I curate and share useful notes!
 
-[[About the Gardener]] | [[About this Digital Garden]] | [[Digital Garden Terms of Service]]
+:::{.ui .horizontal .segments}
+:::{.ui .segment}
+[[About the Gardener]]
+:::
+:::{.ui .segment}
+[[About this Digital Garden]]
+:::
+:::{.ui .segment}
+[[Digital Garden Terms of Service]]
+:::
+:::
 
 ### Latest Additions
 [[z:zettels?tag=**&limit=20&timeline]]
