@@ -9,3 +9,6 @@ Part-blog and part-personal wiki, this is a place where I curate and share usefu
 
 ### Latest Additions
 [[z:zettels?tag=**&limit=20&timeline]]
+
+### Topics
+[[z:zettels?tag=**&grouped]]
