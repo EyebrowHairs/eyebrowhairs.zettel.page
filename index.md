@@ -6,9 +6,8 @@ title: EyebrowHairs
 ## 🌷🌱🌹 Welcome to my digital garden! 🌼🌿🌻
 :::
 
-:::{.ui .center .aligned .text}
-Part-blog and part-personal wiki, this is a place where I curate and share useful notes!
-:::
+[Part-blog and part-personal wiki, this is a place where I curate and share useful notes!]{.ui .center .aligned}
+
 
 :::{.ui .basic .horizontal .segments}
 :::{.ui .center .aligned .segment}

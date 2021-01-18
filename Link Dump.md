@@ -7,16 +7,7 @@ tags: [collection]
 ### 2020-09-11
 [Half Farmer/Half X](https://www.japanfs.org/en/news/archives/news_id028996.html) - very interesting concept which I’m leaning towards. I have been able to garden a few times before (I usually lived in apartments so there weren’t many opportunities) and it was an enjoyable experience. Although farming for actual sustenance may be more stressful than my mere gardening for fun…
 
-### 2020-09-07
-Orientation for school started 2 weeks ago and classes start next week. I was reminded of the importance of following routines and schedules, so I planned out a typical week and am using it as a desktop wallpaper for easy access. It’s not a strict schedule, but it helps to visualize what needs to be done and how much time can be used for activities.
-
-## August 2020
-
-### 2020-08-12
-These days I have been quite lazy at maintaining any sort of note-system.  I have been reading a lot of books and articles, but have just  been writing notes down on paper without processing them further. However,  with the guilt of not maintaining my Zettelkasten in the back of my mind, I believe that I am still thinking of forming connections between ideas, and perhaps caught a glimpse of how exciting it is to maintain a Zettelkasten and be on the lookout for more ideas to grow it. As an example, I was reading a book and suddenly recalled a very similar and related idea from another book. Wow! I could make a new note with that connection! But alas, without writing it down, this connection will probably fade away… (unless, you know, I write it down)
-
 ## July 2020
-
 ### 2020-07-28
 [Mountain of Ink](https://www.mountainofink.com/) - nice detailed reviews of different fountain pen inks! I have fallen down the fountain pen-rabbit hole again…
 
@@ -68,19 +59,6 @@ These days I have been quite lazy at maintaining any sort of note-system.  I hav
 
 ### 2020-06-26
 [Memex](https://getmemex.com/#) - it’s like Pocket, but apparently better. Still in the early stages though. Your bookmarks and history are indexed so that you can perform a full-text search.
-- I tried to import my Pocket articles and regular bookmarks. Apparently ~200 of my old bookmarks were dead! A lot of the links didn’t import if they were blocked by a log-in page, so I would recommend just importing the title/date/URLS instead of the whole article (in the import settings).
-- thoughts: 
-    - consolidates all Pocket articles and bookmarks into one place
-    - you can tag, annotate and add notes to webpages
-    - quick search from search bar
-    - needs work on organizing links, can’t mass edit yet
-    - there’s some sort of backup system, but I haven’t tried it
-    - takes you right to the link. It’s not really focused on article *reading*, so there’s no reading time estimate
-    - just discovered a mobile app, but unfortunately you need to pay to sync those bookmarks to the desktop one, which is a bummer, since Pocket does that for free.
-    - will keep an eye on it in the meantime!
-- Pocket thoughts:
-    - Good things about Pocket - services to send articles to Kindle, the AcceleReader extension below, easy to set up, stores articles offline on phone, clean look - focused on visuals (shows thumbnails), Pocket recommendations email (interesting reads), can save PDFs, save-to-pocket extension on phone
-    - Not so good things - hard to search for articles, hard to edit many articles at once, displays a minimal view of the article, although they display a link to the original article (the view is nice sometimes, but also leaves a lot of things out), limited highlights (and only on the reading mode)
 
 ### 2020-06-25
 An add-on to Pocket (an article bookmarker) called [AcceleReader](https://chrome.google.com/webstore/detail/accelereader-power-up-you/ndaldjfflhocdageglcnflfanmdhgfbi) which shows you how many articles you have (I don’t know why that’s not a feature of Pocket itself), and presents you a random article to read. 
@@ -104,12 +82,12 @@ A year ago, I randomly decided to pick up this script called Vianaic, which look
 
 ### 2020-06-22
 A cool concept of displaying your life in story: [Life in weeks](https://notes.busterbenson.com/life-in-weeks)
-   - I am reminded of this [site](https://waitbutwhy.com/2014/05/life-weeks.html), where I first encountered the ‘life in weeks’ idea.
+- I am reminded of this [site](https://waitbutwhy.com/2014/05/life-weeks.html), where I first encountered the ‘life in weeks’ idea.
    
 Other apps/sites that help you visualize or track your life:
-    - [https://zrxj5vvjvl.codesandbox.io/](https://zrxj5vvjvl.codesandbox.io/)
-     - [https://jhornitzky.github.io/yolograph/demo/](https://jhornitzky.github.io/yolograph/demo/) - shows you what percentage of years you lived based on an average lifespan of 70 years
-     - [http://pewu.github.io/life-in-weeks/](http://pewu.github.io/life-in-weeks/) - customizable
-     - [https://lifecal.me/](https://lifecal.me/) - an app
-     - [https://entire.life/](https://entire.life/) - a webapp?
+- [https://zrxj5vvjvl.codesandbox.io/](https://zrxj5vvjvl.codesandbox.io/)
+- [https://jhornitzky.github.io/yolograph/demo/](https://jhornitzky.github.io/yolograph/demo/) - shows you what percentage of years you lived based on an average lifespan of 70 years
+- [http://pewu.github.io/life-in-weeks/](http://pewu.github.io/life-in-weeks/) - customizable
+- [https://lifecal.me/](https://lifecal.me/) - an app
+- [https://entire.life/](https://entire.life/) - a webapp?
 
