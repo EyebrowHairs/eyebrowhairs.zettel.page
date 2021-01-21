@@ -3,6 +3,10 @@ date: 2020-06-22
 tags: [collection]
 ---
 
+## January 2021
+### 2021-01-20
+[Baye's Theorem](https://youtu.be/HZGCoVF3YvM) - a nice visualization!
+
 ## September 2020
 ### 2020-09-11
 [Half Farmer/Half X](https://www.japanfs.org/en/news/archives/news_id028996.html) - very interesting concept which I’m leaning towards. I have been able to garden a few times before (I usually lived in apartments so there weren’t many opportunities) and it was an enjoyable experience. Although farming for actual sustenance may be more stressful than my mere gardening for fun…
