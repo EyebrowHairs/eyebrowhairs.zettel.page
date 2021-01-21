@@ -22,7 +22,7 @@ title: EyebrowHairs
 :::
 
 ### Latest Additions
-[[z:zettels?tag=**&limit=20&timeline]]
+[[z:zettels?tag=**&limit=10&timeline]]
 
 ### Topics
 :::{.ui .basic .segment .two .column .stackable .grid}
