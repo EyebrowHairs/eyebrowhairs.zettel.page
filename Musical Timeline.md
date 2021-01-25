@@ -5,9 +5,12 @@ tags: [music, collection]
 
 🎵 My musical tastes vary, but mostly center around classical music, the 70/80/90’s genre, and others that will turn up here eventually 🎵
 
+## January 2021
+1. [link](https://youtu.be/rEc8cT5T07U) - Lully: Gavotte - Arr. for Cello and Piano - a piece I'm learning on the violin. It's great to hear other interpretations so I can incorporate them into my own!
+2. [link](https://youtu.be/S6I_lhqudEo) - Tchaikovsky: Piano Concerto No. 1 in B-Flat Minor, 2nd movement
+
 ## September 2020
 1. Bach - Cello Suite No. 5 in C minor BWV 1011 - Suzuki - [link](https://youtu.be/zEHXTrJb3HQ)
-
 
 ## August 2020
 1. Alisa Weilerstein - Cello Suite No. 4 in E-Flat Major, BWV 1010: I. Prélude - [link](https://youtu.be/O4vZ1VYYCso) - This was a familiar name due to a podcast I listened to, called [Sticky Notes](https://stickynotespodcast.libsyn.com/)!
