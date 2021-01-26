@@ -4,4 +4,4 @@ tags: [compost, collection]
 ---
 🌹 → 🥀 An archive of sorts.
 
-[[[z:zettels?tag=compost]]]
+[[z:zettels?tag=compost]]#
