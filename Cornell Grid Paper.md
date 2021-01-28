@@ -18,3 +18,5 @@ The Cornell note-taking system helps you organize your (hand-written or digital)
 ### Resources
 - About the Cornell system: [http://lsc.cornell.edu/study-skills/cornell-note-taking-system/](http://lsc.cornell.edu/study-skills/cornell-note-taking-system/)
 - Also check out [https://incompetech.com/graphpaper/cornelllined/](https://incompetech.com/graphpaper/cornelllined/) for customizable templates
+
+Part of #[[Printables]]
