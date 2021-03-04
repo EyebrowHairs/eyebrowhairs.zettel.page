@@ -8,8 +8,8 @@ Testing items...
 :::{.ui .items}
 :::{.item}
 :::{.content}
-:::{.image .small}
-![star](.\static\images\star.png)
+:::{.image}
+![star](.\static\images\star.png){#avatar .ui .left .floated .small .image}
 :::
 :::{.header}
 Test
