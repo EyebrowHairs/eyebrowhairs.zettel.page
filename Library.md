@@ -8,7 +8,7 @@ Testing items...
 :::{.ui .items}
 :::{.item}
 :::{.content}
-:::{.image}
+:::{.image .small}
 ![star](.\static\images\star.png)
 :::
 :::{.header}
@@ -22,6 +22,7 @@ This isn't very nice to type out :(
 :::
 :::
 :::
+
 :::{.item}
 :::{.content}
 :::{.header}
@@ -54,6 +55,7 @@ This isn't very nice to type out :(
 :::
 :::
 :::
+
 :::{.card}
 :::{.content}
 :::{.header}
