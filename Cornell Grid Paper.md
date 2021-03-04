@@ -1,7 +1,9 @@
 ---
 date: 2021-01-17
-tags: [printable]
 ---
+:::{.ui .message}
+From: #[[Printables]] 
+:::
 
 The Cornell note-taking system helps you organize your (hand-written or digital) note paper more efficiently. It divides the paper into columns: the main body is for the notes (typically taken during a lecture or while reading), and the side column is for key words, concepts, or questions. I also write headings on the side column for readability and organization. An optional row on the bottom can be used to summarize the page (I don’t do this though).
 

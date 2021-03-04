@@ -1,11 +1,9 @@
 ---
 date: 2021-01-17
 ---
+:::{.ui .message}
 From: #[[Printables]] 
-
-
-
-
+:::
 
 View the whole year on one page, with space on the side to write notes. 
 

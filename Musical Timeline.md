@@ -1,6 +1,6 @@
 ---
 date: 2020-06-03
-tags: [music, collection]
+tags: [hub]
 ---
 
 🎵 My musical tastes vary, but mostly center around classical music, the 70/80/90’s genre, and others that will turn up here eventually 🎵

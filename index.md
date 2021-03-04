@@ -12,10 +12,9 @@ Part-blog and part-personal wiki, this is a place where I curate and share usefu
 Disclaimer: *Nothing is permanent.*
 :::
 
-
 :::{.ui .basic .horizontal .segments}
 :::{.ui .center .aligned .segment}
-[[About]]
+[[About]]#
 :::
 :::{.ui .center .aligned .segment}
 What is a [[Digital Garden]]?
@@ -26,8 +25,4 @@ What is a [[Digital Garden]]?
 [[z:zettels?tag=**&limit=10&timeline]]
 
 ### Topics
-:::{.ui .basic .segment .two .column .stackable .grid}
-:::{.column}
 [[z:zettels?tag=hub]]
-:::
-:::

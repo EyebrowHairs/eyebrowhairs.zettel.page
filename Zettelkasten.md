@@ -1,6 +1,6 @@
 ---
 date: 2021-01-16
-tags: [zettelkasten, in-progress]
+tags: [in-progress]
 ---
 ## What is it?
 

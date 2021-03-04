@@ -1,6 +1,6 @@
 ---
 date: 2021-01-17
-tags: [printable, collection]
+tags: [hub]
 ---
 
 A collection of printables that I have created or particularly like.
