@@ -2,7 +2,7 @@
 date: 2021-01-16
 ---
 ::: {.ui .message}
-Also see the [[Digital Garden Terms of Service]].
+Also see the [[Digital Garden Terms of Service]]#.
 :::
 ## What is it?
 A place to keep useful knowledge, tips, how to’s, personal project notes, collections, thoughts, ideas, blog posts, and more. If you’re inclined, it’s also a place to *Learn in Public*. [^1]
