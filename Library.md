@@ -8,8 +8,8 @@ Testing items...
 :::{.ui .divided .items}
 :::{.item}
 :::{.content}
-:::{.ui .tiny .image}
-![star](.\static\images\star.png)
+:::{.image}
+![star](.\static\images\star.png){#avatar .ui .left .floated .tiny .image}
 :::
 :::{.header}
 Test
@@ -19,6 +19,7 @@ Does it work?
 :::
 :::{.description}
 This isn't very nice to type out :(
+
 Testing a link: [[Compost Bin]]
 :::
 :::
@@ -46,10 +47,13 @@ Testing cards...
 :::{.card}
 :::{.content}
 :::{.image}
-![star](.\static\images\star.png)
+![star](.\static\images\star.png){.small .image}
 :::
 :::{.header}
 Test
+:::
+:::{.meta}
+Does it work?
 :::
 :::{.description}
 This isn't very nice to type out :(
@@ -59,6 +63,9 @@ This isn't very nice to type out :(
 
 :::{.card}
 :::{.content}
+:::{.image}
+![star](.\static\images\star.png)
+:::
 :::{.header}
 [[index]]
 :::
