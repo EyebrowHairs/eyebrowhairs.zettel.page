@@ -5,11 +5,11 @@ tags: [hub]
 
 Testing items...
 
-:::{.ui .items}
+:::{.ui .divided .items}
 :::{.item}
 :::{.content}
-:::{.image}
-![star](.\static\images\star.png){#avatar .ui .left .floated .small .image}
+:::{.ui .tiny .image}
+![star](.\static\images\star.png)
 :::
 :::{.header}
 Test
@@ -19,6 +19,7 @@ Does it work?
 :::
 :::{.description}
 This isn't very nice to type out :(
+Testing a link: [[Compost Bin]]
 :::
 :::
 :::
