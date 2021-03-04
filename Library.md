@@ -8,6 +8,9 @@ Testing items...
 :::{.ui .items}
 :::{.item}
 :::{.content}
+:::{.image}
+![star](.\static\images\star.png)
+:::
 :::{.header}
 Test
 :::
@@ -22,7 +25,7 @@ This isn't very nice to type out :(
 :::{.item}
 :::{.content}
 :::{.header}
-Test
+Testing a link to [[index]]
 :::
 :::{.meta}
 Does it work?
@@ -40,6 +43,9 @@ Testing cards...
 :::{.ui .cards}
 :::{.card}
 :::{.content}
+:::{.image}
+![star](.\static\images\star.png)
+:::
 :::{.header}
 Test
 :::
@@ -51,7 +57,7 @@ This isn't very nice to type out :(
 :::{.card}
 :::{.content}
 :::{.header}
-Test
+[[index]]
 :::
 :::{.description}
 This isn't very nice to type out :(

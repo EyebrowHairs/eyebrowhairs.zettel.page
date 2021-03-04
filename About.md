@@ -4,7 +4,7 @@ slug: about
 ---
 
 # About
-:::{.ui .block .header}
+:::{.ui .block .compact .header}
 ## About the Gardener
 :::
 
@@ -20,7 +20,7 @@ Besides, it’s fun to think of myself as a gardener, cultivating and tending to
 
 I have a semi-green thumb in real life, so let’s hope that it transfers here! 🌱👍
 
-:::{.ui .block .header}
+:::{.ui .block .compact .header}
 ## About the Garden
 :::
 
