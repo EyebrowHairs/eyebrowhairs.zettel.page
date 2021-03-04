@@ -1,7 +1,9 @@
 ---
 date: 2021-01-16
 ---
+:::{.ui .message}
 Adapted from: [https://www.swyx.io/writing/digital-garden-tos/](https://www.swyx.io/writing/digital-garden-tos/) 
+:::
 
 ## For Visitors
 Welcome! You are now browsing a [Digital Garden](https://joelhooks.com/digital-garden). This is my personal space for [Learning In Public](https://www.swyx.io/writing/learn-in-public) (not entirely, but somewhat). I am a lifelong learner so everything is a Work-In-Progress like me, but I do not let perfectionism get in the way (well, I try not to…that is a struggle for me). That means that what you read here is not authoritative or complete, and is not representative of my best work.

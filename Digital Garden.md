@@ -1,7 +1,9 @@
 ---
 date: 2021-01-16
 ---
-
+::: {.ui .message}
+Also see the [[Digital Garden Terms of Service]].
+:::
 ## What is it?
 A place to keep useful knowledge, tips, how to’s, personal project notes, collections, thoughts, ideas, blog posts, and more. If you’re inclined, it’s also a place to *Learn in Public*. [^1]
 
@@ -28,7 +30,7 @@ You may think that I should just call it a personal wiki or blog because that’
 - Hopefully encounter like(or different!)-minded folks. 
 
 ### Cons
-- It might be hard for readers to keep up with what’s new - implementing an RSS feed for a few changes or small additions to each page is impractical (although I could collect new pages per month and share that).
+~~- It might be hard for readers to keep up with what’s new - implementing an RSS feed for a few changes or small additions to each page is impractical (although I could collect new pages per month and share that).~~ >> it's [possible](https://neuron.zettel.page/feed)!
 - It’s not as polished as a blog. I hope not to create such fragmented notes, as I’m not aiming for a Zettelkasten, and I noticed that it’s difficult to follow other public Zettelkästen[^2] as you have to keep clicking links, that lead to more links, and etc.
 - It’s a bit…chaotic. I know. That’s also the magic of it. Our brains aren’t neat little compartments, after all. However to make it easier, I’m planning on creating an Index that makes it easier to navigate the garden, and have also included different methods to view the garden, such as by tags or by date.
 
