@@ -25,4 +25,4 @@ What is a [[Digital Garden]]?
 [[z:zettels?tag=**&limit=10&timeline]]
 
 ### Topics
-[[z:zettels?tag=hub]]
+[[z:zettels?tag=hub]]#

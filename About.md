@@ -4,8 +4,9 @@ slug: about
 ---
 
 # About
-
+:::{.ui .block .header}
 ## About the Gardener
+:::
 
 > If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them. ~ Henry David Thoreau
 
@@ -19,7 +20,9 @@ Besides, it’s fun to think of myself as a gardener, cultivating and tending to
 
 I have a semi-green thumb in real life, so let’s hope that it transfers here! 🌱👍
 
-# About the Garden
+:::{.ui .block .header}
+## About the Garden
+:::
 
 ## Set-up
 ### Repository
