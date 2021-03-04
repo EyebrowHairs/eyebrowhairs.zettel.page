@@ -1,5 +1,7 @@
 ---
 title: EyebrowHairs
+dirtree:
+  display: False
 ---
 
 ::: {.ui .center .aligned .header}
