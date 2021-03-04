@@ -1,7 +1,7 @@
 ---
 date: 2021-01-16
 slug: compost-bin
-tags: [compost, hub]
+tags: [hub]
 ---
 🌹 → 🥀 An archive of sorts.
 
