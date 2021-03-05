@@ -5,6 +5,11 @@ slug: library
 tags: [hub]
 ---
 
+## Books
+[[z:zettels?tag=book&timeline]]#
+
+---
+
 Testing items...
 
 :::{.ui .divided .items}
