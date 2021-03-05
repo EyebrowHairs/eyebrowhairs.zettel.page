@@ -1,5 +1,7 @@
 ---
 date: 2021-03-04
+title: Library
+slug: library
 tags: [hub]
 ---
 
@@ -20,7 +22,7 @@ Does it work?
 :::{.description}
 This isn't very nice to type out :(
 
-Testing a link: [[Compost Bin]]
+Testing a link: [[_Compost Bin]]
 :::
 :::
 :::
@@ -28,7 +30,7 @@ Testing a link: [[Compost Bin]]
 :::{.item}
 :::{.content}
 :::{.header}
-Testing a link to [[index]]
+Testing a link to [[_index]]
 :::
 :::{.meta}
 Does it work?
@@ -67,7 +69,7 @@ This isn't very nice to type out :(
 ![star](.\static\images\star.png)
 :::
 :::{.header}
-[[index]]
+[[_index]]
 :::
 :::{.description}
 This isn't very nice to type out :(

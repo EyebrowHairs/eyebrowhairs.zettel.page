@@ -14,7 +14,7 @@ Disclaimer: *Nothing is permanent.*
 
 :::{.ui .basic .horizontal .segments}
 :::{.ui .center .aligned .segment}
-[[About]]#
+[[_About]]#
 :::
 :::{.ui .center .aligned .segment}
 What is a [[Digital Garden]]?

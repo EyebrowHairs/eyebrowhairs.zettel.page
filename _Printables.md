@@ -1,5 +1,7 @@
 ---
 date: 2021-01-17
+title: Printables
+slug: printables
 tags: [hub]
 ---
 
