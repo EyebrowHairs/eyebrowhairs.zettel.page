@@ -5,10 +5,10 @@ tags: [book]
 ---
 :::{.ui .divided .items}
 :::{.item}
-:::{.small .image}
+:::{.image}
 ![cover](https://media.springernature.com/w153/springer-static/cover/book/9781447174752.jpg)
 :::
-:::{.content}
+:::{.middle .aligned .content}
 :::{.header}
 Systems Thinkers
 :::

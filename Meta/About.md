@@ -3,8 +3,6 @@ date: 2021-01-16
 title: About
 slug: about
 ---
-
-# About
 :::{.ui .block .compact .header}
 ## About the Gardener
 :::
