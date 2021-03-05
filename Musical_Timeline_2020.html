@@ -39,23 +39,29 @@
       text-align: center;
     }
 
-    body div.zettel-view .zettel-content h3 {
-	    margin: 1.5em 0px 0.5em 0px;
-    }
-
-    body h2, h3, h4, h5, h6, .ui.header, .headerFont {
+    body h2, h3, h4, h5, h6 {
       font-family: 'Cormorant', serif !important;
       font-weight: 600;
       font-size: 2em;
     }
 
-    body h3, h4, h5, h6, .ui.header, .headerFont {
+    body h3, h4, h5, h6 {
       font-size: 1.5em;
+      margin: 1.5em 0px 0.5em 0px;
     }
 
     body p, li, a {
       font-family: 'Montserrat', sans-serif !important;
       font-weight: 400;
+    }
+
+    /* Hide the query divider */
+    div.pandoc section.tag-query-results .divider {
+    display: none !important;
+    }
+
+    div.pandoc section.tag-query-results .ui.list {
+        padding-left: 1em;
     }
 
   </style>
