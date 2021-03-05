@@ -3,7 +3,7 @@ date: 2021-03-04
 title: Systems Thinkers
 tags: [book]
 ---
-:::{.item}
+:::{.ui .divided .item}
 :::{.content}
 :::{.image}
 ![cover](https://media.springernature.com/w153/springer-static/cover/book/9781447174752.jpg){#avatar .ui .left .floated .small .image}
