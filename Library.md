@@ -22,7 +22,7 @@ Does it work?
 :::{.description}
 This isn't very nice to type out :(
 
-Testing a link: [[_Compost Bin]]
+Testing a link: [[Compost Bin]]
 :::
 :::
 :::
@@ -30,7 +30,7 @@ Testing a link: [[_Compost Bin]]
 :::{.item}
 :::{.content}
 :::{.header}
-Testing a link to [[_index]]
+Testing a link to [[index]]
 :::
 :::{.meta}
 Does it work?
@@ -69,7 +69,7 @@ This isn't very nice to type out :(
 ![star](.\static\images\star.png)
 :::
 :::{.header}
-[[_index]]
+[[index]]
 :::
 :::{.description}
 This isn't very nice to type out :(
