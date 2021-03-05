@@ -16,6 +16,8 @@ A collection of resources and notes on systems thinking.
 
 [Thinking in Systems](https://www.chelseagreen.com/product/thinking-in-systems/) by Donella Meadows
 
+## To Read Next
+[Systems Thinking: Creative Holism for Managers](https://www.wiley.com/en-us/Systems+Thinking%3A+Creative+Holism+for+Managers-p-9780470845226) by Michael C. Jackson
 
 ---
 ## Notes
