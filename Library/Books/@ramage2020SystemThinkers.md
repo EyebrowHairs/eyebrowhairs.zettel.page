@@ -5,8 +5,8 @@ tags: [book]
 ---
 :::{.ui .divided .items}
 :::{.item}
-:::{.image}
-![cover](https://media.springernature.com/w153/springer-static/cover/book/9781447174752.jpg){#avatar .ui .left .floated .small .image}
+:::{.small .image}
+![cover](https://media.springernature.com/w153/springer-static/cover/book/9781447174752.jpg)
 :::
 :::{.content}
 :::{.header}
