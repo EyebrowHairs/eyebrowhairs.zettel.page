@@ -4,5 +4,5 @@
 , theme = "orange"
 , editUrl = Some "https://github.com/EyebrowHairs/garden/edit/master/"
 , mathJaxSupport = False
-, plugins = ["neuronignore", "links", "tags", "uptree", "dirtree"]
+, plugins = ["neuronignore", "links", "tags", "uptree"]
 }
