@@ -10,7 +10,7 @@ A collection of resources and notes on systems thinking.
 :::
 
 ## Currently Reading
-[Systems Thinkers](https://www.springer.com/gp/book/9781447174745) by Magnus Ramage and Karen Shipp
+[[@ramage2020SystemThinkers]] by Magnus Ramage and Karen Shipp
 
 [Critical Fabulations](https://mitpress.mit.edu/books/critical-fabulations) by Daniela Rosner
 

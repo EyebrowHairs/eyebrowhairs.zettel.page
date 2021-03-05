@@ -16,7 +16,7 @@ Systems Thinkers
 2020, by Magnus Ramage and Karen Shipp
 :::
 :::{.description}
-This is a collection of biographies of 30 systems thinkers and short excerpts of their work.
+The biographies of 30 systems thinkers and short excerpts of their work. [Link](https://www.springer.com/gp/book/9781447174745)
 :::
 :::
 :::

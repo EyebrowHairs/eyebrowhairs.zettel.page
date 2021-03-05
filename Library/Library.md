@@ -4,81 +4,21 @@ title: Library
 slug: library
 tags: [hub]
 ---
+:::{.ui .message}
+Sharing interesting and/or informative media. Books, articles, links, videos, podcasts, music, etc.
+:::
 
-## Books
+:::{.ui .basic .horizontal .segments}
+:::{.ui .center .aligned .segment}
+[[Link Dump 2021]]
+:::
+:::{.ui .center .aligned .segment}
+[[Musical Timeline 2021]]
+:::
+:::
+
+
 [[z:zettels?tag=book&timeline]]#
 
----
+[[z:zettels?tag=article&timeline]]#
 
-Testing items...
-
-:::{.ui .divided .items}
-:::{.item}
-:::{.content}
-:::{.image}
-![star](.\static\images\star.png){#avatar .ui .left .floated .tiny .image}
-:::
-:::{.header}
-Test
-:::
-:::{.meta}
-Does it work?
-:::
-:::{.description}
-This isn't very nice to type out :(
-
-Testing a link: [[Compost Bin]]
-:::
-:::
-:::
-
-:::{.item}
-:::{.content}
-:::{.header}
-Testing a link to [[index]]
-:::
-:::{.meta}
-Does it work?
-:::
-:::{.description}
-This isn't very nice to type out :(
-:::
-:::
-:::
-:::
-
-
-Testing cards...
-
-:::{.ui .cards}
-:::{.card}
-:::{.content}
-:::{.image}
-![star](.\static\images\star.png){.small .image}
-:::
-:::{.header}
-Test
-:::
-:::{.meta}
-Does it work?
-:::
-:::{.description}
-This isn't very nice to type out :(
-:::
-:::
-:::
-
-:::{.card}
-:::{.content}
-:::{.image}
-![star](.\static\images\star.png)
-:::
-:::{.header}
-[[index]]
-:::
-:::{.description}
-This isn't very nice to type out :(
-:::
-:::
-:::
-:::

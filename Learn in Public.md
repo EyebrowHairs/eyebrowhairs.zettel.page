@@ -23,9 +23,6 @@ Also encountered in school. My least favourite class actually, but a few interes
 ## [[Human Connections]]#
 How do we learn from and make sense of the world? How do we connect to ourselves and others? Will possibly include topics such as: learning theories, sociology, anthropology, psychology, and philosophy.
 
-## [[Library]]
-The sharing of interesting and/or informative media (books, articles, podcasts, etc.)
-
 -->
 
 [^1]: [Learning In Public](https://www.swyx.io/writing/learn-in-public)
