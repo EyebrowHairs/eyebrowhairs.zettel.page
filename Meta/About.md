@@ -3,9 +3,8 @@ date: 2021-01-16
 title: About
 slug: about
 ---
-:::{.ui .block .compact .header}
+
 ## About the Gardener
-:::
 
 > If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them. ~ Henry David Thoreau
 
@@ -19,11 +18,10 @@ Besides, it’s fun to think of myself as a gardener, cultivating and tending to
 
 I have a semi-green thumb in real life, so let’s hope that it transfers here! 🌱👍
 
-:::{.ui .block .compact .header}
-## About the Garden
-:::
+---
 
-## Set-up
+## About the Garden
+
 ### Repository
 The files can be found on Github [source](https://github.com/EyebrowHairs/eyebrowhairs.zettel.page), for anyone curious.
 
@@ -34,13 +32,13 @@ I use [Neuron](https://neuron.zettel.page/) to publish files to the web.
 Github Pages
 
 ### File back-up
-Dropbox
+OneNote
 
 ## Workflow
 ### Writing and editing
 I use [Obsidian](https://obsidian.md/) to write and edit files.
 
 ### Publishing
-Then I open up Github Desktop Client to push/pull any changes to the repository.
+Then I open up the Github Desktop Client to push/pull any changes to the repository.
 
 Alternatively, I can directly edit files on the Github repository, or use [Cerveau](http://www.cerveau.app/), the web-interface for Neuron.

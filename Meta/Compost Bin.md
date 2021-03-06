@@ -4,6 +4,8 @@ title: Compost Bin
 slug: compost-bin
 tags: [hub]
 ---
+:::{.ui .message}
 🌹 → 🥀 An archive of sorts.
+:::
 
 [[z:zettels?tag=compost]]

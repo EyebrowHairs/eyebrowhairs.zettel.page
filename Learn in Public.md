@@ -12,8 +12,7 @@ I thought it would be interesting to publish my notes in order to Learn in Publi
 ## Latest Additions
 [[z:zettels?tag=learn&limit=10&timeline]]
 
-## [[Systems Thinking]]#
-I first encountered this topic at school (Winter 2021) and was really fascinated with it! As of March 2021 I will be doing some independent readings to explore the subject further.
+[[Systems Thinking]]# - I first encountered this topic at school (Winter 2021) and was really fascinated with it! As of March 2021 I will be doing some independent readings to explore the subject further.
 
 <!-- 
 

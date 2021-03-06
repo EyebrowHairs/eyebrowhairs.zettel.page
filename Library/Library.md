@@ -10,15 +10,16 @@ Sharing interesting and/or informative media. Books, articles, links, videos, po
 
 :::{.ui .basic .horizontal .segments}
 :::{.ui .center .aligned .segment}
-[[Link Dump 2021]]
+[[Link Dump 2021]]#
 :::
 :::{.ui .center .aligned .segment}
-[[Musical Timeline 2021]]
+[[Musical Timeline 2021]]#
 :::
 :::
 
-
+## Books
 [[z:zettels?tag=book&timeline]]#
 
+## Articles
 [[z:zettels?tag=article&timeline]]#
 
