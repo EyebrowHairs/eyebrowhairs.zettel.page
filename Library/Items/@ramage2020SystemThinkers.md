@@ -1,6 +1,6 @@
 ---
 date: 2021-03-04
-title: Systems Thinkers
+title: Systems Thinkers (Ramage & Shipp, 2020)
 tags: [book]
 ---
 :::{.ui .divided .items}

@@ -23,5 +23,6 @@ If you want to get the gist (thesis) of the text quickly, you should jump around
 
 ## References
 [[@oakley2014MindNumbersHow]]
+
 [[@shore2016GradSchoolEssentials]]
 
