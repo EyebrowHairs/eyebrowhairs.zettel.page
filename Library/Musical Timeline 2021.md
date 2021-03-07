@@ -9,6 +9,13 @@ slug: musical-timeline-2021
 🎵 My musical tastes vary, but mostly center around classical music, the 70/80/90’s genre, and others that will turn up here eventually 🎵
 :::
 
+## March 2021
+1. [link](https://youtu.be/eCngEqayi74) - Rameau, Ólafsson: The Arts and the Hours
+2. [link](https://youtu.be/xInP7Jcq9r0) - Bach - Six little preludes BWV 933-938 - Alard | Netherlands Bach Society - I especially like BWV 934 (C minor)
+3. [link](https://youtu.be/LwQkMENpKMo) - 6 Little Preludes: No. 2 in C Minor, BWV 934 - a version I like played by Glenn Gould
+4. [link](https://youtu.be/t4pxrqVLGE0) - The Sacred Veil: XI. You Rise, I Fall - a choral piece by Eric Whitacre - I love how he incorporates dissonance in his works
+
+---
 ## February 2021
 1. [link](https://youtu.be/fxLA1Cl2n34) - Ola Gjeilo - Night (full album)
 
