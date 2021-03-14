@@ -13,7 +13,10 @@ slug: musical-timeline-2021
 1. [link](https://youtu.be/eCngEqayi74) - Rameau, Ólafsson: The Arts and the Hours
 2. [link](https://youtu.be/xInP7Jcq9r0) - Bach - Six little preludes BWV 933-938 - Alard | Netherlands Bach Society - I especially like BWV 934 (C minor)
 3. [link](https://youtu.be/LwQkMENpKMo) - 6 Little Preludes: No. 2 in C Minor, BWV 934 - a version I like played by Glenn Gould
-4. [link](https://youtu.be/t4pxrqVLGE0) - The Sacred Veil: XI. You Rise, I Fall - a choral piece by Eric Whitacre - I love how he incorporates dissonance in his works
+4. [link](https://youtu.be/nrnmgMdvI6U) - Portal 2 OST Volume 3 - Machiavellian Bach - a modernized version!
+5. [link](https://youtu.be/t4pxrqVLGE0) - The Sacred Veil: XI. You Rise, I Fall - a choral piece by Eric Whitacre - I love how he incorporates dissonance in his works
+6. [link](https://youtu.be/Nja-KcfCOCU) - Novabossa, Clazziquai
+7. [link](https://youtu.be/Shf2zOMCme4) - Cat Bossa, Clazziquai
 
 ---
 ## February 2021

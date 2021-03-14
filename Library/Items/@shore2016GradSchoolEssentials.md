@@ -5,7 +5,9 @@ tags: [book]
 ---
 
 Title: Grad School Essentials: A Crash Course in Scholarly Skills
+
 Authors: Zachary Shore
+
 Year: 2016
 
 

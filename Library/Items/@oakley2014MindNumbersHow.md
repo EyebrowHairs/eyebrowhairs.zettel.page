@@ -5,6 +5,8 @@ tags: [book]
 ---
 
 Title: A mind for numbers: How to excel at math and science (even if you flunked algebra)
+
 Authors: Barbara A. Oakley
+
 Year: 2014
 
