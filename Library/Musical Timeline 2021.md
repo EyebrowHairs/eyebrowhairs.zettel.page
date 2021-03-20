@@ -17,6 +17,7 @@ slug: musical-timeline-2021
 5. [link](https://youtu.be/t4pxrqVLGE0) - The Sacred Veil: XI. You Rise, I Fall - a choral piece by Eric Whitacre - I love how he incorporates dissonance in his works
 6. [link](https://youtu.be/Nja-KcfCOCU) - Novabossa, Clazziquai
 7. [link](https://youtu.be/Shf2zOMCme4) - Cat Bossa, Clazziquai
+8. [link](https://youtu.be/YsbrRAgv1b4) - Sibelius Violin Concerto - Maxim Vengerov, Daniel Barenboim, Chicago S.O. (CSO) - I always seem to watch the whole thing
 
 ---
 ## February 2021
