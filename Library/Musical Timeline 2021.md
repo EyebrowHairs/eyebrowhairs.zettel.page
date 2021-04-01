@@ -18,6 +18,7 @@ slug: musical-timeline-2021
 6. [link](https://youtu.be/Nja-KcfCOCU) - Novabossa, Clazziquai
 7. [link](https://youtu.be/Shf2zOMCme4) - Cat Bossa, Clazziquai
 8. [link](https://youtu.be/YsbrRAgv1b4) - Sibelius Violin Concerto - Maxim Vengerov, Daniel Barenboim, Chicago S.O. (CSO) - I always seem to watch the whole thing
+9.  [link](https://youtu.be/rVgdriOC_wk) - Augustin Hadelich plays J.S. Bach's Violin Sonata No. 3 in C Major, BWV 1005: III. Largo
 
 ---
 ## February 2021
